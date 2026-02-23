@@ -1,0 +1,17 @@
+class Solution {
+    public int binaryGap(int n) {
+        String num = Integer.toBinaryString(n);
+        int l = num.length();
+        int prev = -1;
+        int gap = 0;
+        for(int i = 0 ; i<l ; i++){
+            if(num.charAt(i)=='1'){
+                if(prev != -1){
+                    gap = Math.max(gap,i-prev);
+                }
+                prev = i;
+            }
+        }
+        return gap;
+    }
+}
