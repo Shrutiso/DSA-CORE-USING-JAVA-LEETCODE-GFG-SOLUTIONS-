@@ -31,6 +31,7 @@ I regularly practice Data Structures and Algorithms and upload my solutions here
 ## Database
 |  |
 | ------- |
+| [0180-consecutive-numbers](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0180-consecutive-numbers) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0181-employees-earning-more-than-their-managers) |
 ## Hash Table
 |  |
