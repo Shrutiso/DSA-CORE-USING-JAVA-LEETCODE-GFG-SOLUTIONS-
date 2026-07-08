@@ -54,8 +54,13 @@ I regularly practice Data Structures and Algorithms and upload my solutions here
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0344-reverse-string](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0344-reverse-string) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0003-longest-substring-without-repeating-characters) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
