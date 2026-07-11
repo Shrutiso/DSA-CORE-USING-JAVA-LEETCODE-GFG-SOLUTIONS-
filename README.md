@@ -27,6 +27,7 @@ I regularly practice Data Structures and Algorithms and upload my solutions here
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0007-reverse-integer) |
 ## Database
 |  |
@@ -71,4 +72,12 @@ I regularly practice Data Structures and Algorithms and upload my solutions here
 | [0151-reverse-words-in-a-string](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0541-reverse-string-ii) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
