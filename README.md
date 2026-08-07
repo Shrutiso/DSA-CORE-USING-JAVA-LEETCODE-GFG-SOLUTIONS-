@@ -16,6 +16,7 @@ I regularly practice Data Structures and Algorithms and upload my solutions here
 | [0041-first-missing-positive](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0041-first-missing-positive) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0609-find-duplicate-file-in-system](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0609-find-duplicate-file-in-system) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Binary Search
 |  |
