@@ -16,6 +16,7 @@ I regularly practice Data Structures and Algorithms and upload my solutions here
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0238-product-of-array-except-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0609-find-duplicate-file-in-system](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0609-find-duplicate-file-in-system) |
 | [0724-find-pivot-index](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0724-find-pivot-index) |
@@ -166,5 +167,6 @@ I regularly practice Data Structures and Algorithms and upload my solutions here
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
