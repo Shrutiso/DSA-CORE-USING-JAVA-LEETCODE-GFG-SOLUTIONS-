@@ -13,6 +13,7 @@ I regularly practice Data Structures and Algorithms and upload my solutions here
 | [0001-two-sum](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0169-majority-element) |
@@ -104,6 +105,7 @@ I regularly practice Data Structures and Algorithms and upload my solutions here
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0344-reverse-string) |
