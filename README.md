@@ -72,6 +72,7 @@ I regularly practice Data Structures and Algorithms and upload my solutions here
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0242-valid-anagram) |
 | [0609-find-duplicate-file-in-system](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0609-find-duplicate-file-in-system) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Design
@@ -94,6 +95,7 @@ I regularly practice Data Structures and Algorithms and upload my solutions here
 | [0020-valid-parentheses](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0541-reverse-string-ii) |
 | [0609-find-duplicate-file-in-system](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0609-find-duplicate-file-in-system) |
@@ -123,6 +125,7 @@ I regularly practice Data Structures and Algorithms and upload my solutions here
 | ------- |
 | [0015-3sum](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0242-valid-anagram) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Number Theory
