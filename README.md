@@ -20,6 +20,7 @@ I regularly practice Data Structures and Algorithms and upload my solutions here
 | [0238-product-of-array-except-self](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0238-product-of-array-except-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0609-find-duplicate-file-in-system](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0609-find-duplicate-file-in-system) |
+| [0643-maximum-average-subarray-i](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0724-find-pivot-index) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -103,6 +104,7 @@ I regularly practice Data Structures and Algorithms and upload my solutions here
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
 |  |
 | ------- |
