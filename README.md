@@ -32,6 +32,7 @@ I regularly practice Data Structures and Algorithms and upload my solutions here
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0278-first-bad-version](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0278-first-bad-version) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0540-single-element-in-a-sorted-array) |
 ## Divide and Conquer
 |  |
@@ -182,4 +183,8 @@ I regularly practice Data Structures and Algorithms and upload my solutions here
 | [0238-product-of-array-except-self](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/1480-running-sum-of-1d-array) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
