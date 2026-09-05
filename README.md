@@ -80,6 +80,7 @@ I regularly practice Data Structures and Algorithms and upload my solutions here
 | [0242-valid-anagram](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0242-valid-anagram) |
 | [0609-find-duplicate-file-in-system](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0609-find-duplicate-file-in-system) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2351-first-letter-to-appear-twice](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/2351-first-letter-to-appear-twice) |
 ## Design
 |  |
 | ------- |
@@ -93,6 +94,7 @@ I regularly practice Data Structures and Algorithms and upload my solutions here
 | ------- |
 | [0169-majority-element](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0169-majority-element) |
 | [1603-design-parking-system](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/1603-design-parking-system) |
+| [2351-first-letter-to-appear-twice](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/2351-first-letter-to-appear-twice) |
 ## String
 |  |
 | ------- |
@@ -105,6 +107,7 @@ I regularly practice Data Structures and Algorithms and upload my solutions here
 | [0541-reverse-string-ii](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0541-reverse-string-ii) |
 | [0609-find-duplicate-file-in-system](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0609-find-duplicate-file-in-system) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2351-first-letter-to-appear-twice](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/2351-first-letter-to-appear-twice) |
 ## Sliding Window
 |  |
 | ------- |
@@ -189,4 +192,8 @@ I regularly practice Data Structures and Algorithms and upload my solutions here
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0278-first-bad-version) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/2351-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
