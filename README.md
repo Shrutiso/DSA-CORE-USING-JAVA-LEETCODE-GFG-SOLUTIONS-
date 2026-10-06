@@ -16,6 +16,7 @@ I regularly practice Data Structures and Algorithms and upload my solutions here
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0041-first-missing-positive) |
+| [0136-single-number](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0238-product-of-array-except-self) |
@@ -205,6 +206,7 @@ I regularly practice Data Structures and Algorithms and upload my solutions here
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0136-single-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/2351-first-letter-to-appear-twice) |
 ## Greedy
 |  |
