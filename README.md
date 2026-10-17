@@ -173,6 +173,7 @@ I regularly practice Data Structures and Algorithms and upload my solutions here
 | [0098-validate-binary-search-tree](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0110-balanced-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -187,6 +188,7 @@ I regularly practice Data Structures and Algorithms and upload my solutions here
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/1971-find-if-path-exists-in-graph) |
 ## Stack
 |  |
 | ------- |
@@ -229,4 +231,12 @@ I regularly practice Data Structures and Algorithms and upload my solutions here
 | [0053-maximum-subarray](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0746-min-cost-climbing-stairs](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/0746-min-cost-climbing-stairs) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Shrutiso/DSA-CORE-USING-JAVA-LEETCODE-GFG-SOLUTIONS-/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
